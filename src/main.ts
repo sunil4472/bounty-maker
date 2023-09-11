@@ -1,0 +1,8 @@
+import 'iconify-icon'
+import './components/App'
+import './components/EditPanel'
+import './components/LuffyLogo'
+import './components/TipsDialog'
+import './components/WantedButton'
+import './components/WantedPoster'
+import './style.css'
